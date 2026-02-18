@@ -1,21 +1,23 @@
-# Comprehensive Portfolio
+# Habilidades
 
-## Projects
-- **Project 1**: Description of project 1, technologies used, and the impact it made.
-- **Project 2**: Description of project 2, technologies used, and the impact it made.
+Content about habilidades here.
 
-## Digital Presence
-- **Website**: [www.albertowswebsite.com](http://www.albertowswebsite.com)
-- **LinkedIn**: [linkedin.com/in/alberto](https://linkedin.com/in/alberto)
+# Cruzamento de Mercado
 
-## Certifications
-- **Certification 1**: Description of what was learned and where obtained.
-- **Certification 2**: Description of what was learned and where obtained.
+Content about cruzamento de mercado here.
 
-## Monetization Paths
-- **Path 1**: Description of how this path can generate income.
-- **Path 2**: Description of how this path can generate income.
+# Nichos de Mercado
 
-## Short and Medium-Term Goals
-- **Short-Term Goal**: Description of a goal expected to achieve within the next year.
-- **Medium-Term Goal**: Description of a goal expected to achieve in the next 1-3 years.
+Content about nichos de mercado here.
+
+# Estratégia de Atuação
+
+Content about estratégia de atuação here.
+
+# Diferencial Competitivo
+
+Content about diferencial competitivo here.
+
+# Caminhos de Monetização
+
+Content about caminhos de monetização here.
